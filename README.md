@@ -17,3 +17,13 @@ This project analyzes movie reviews from the IMDB dataset using NLP techniques. 
 ### Word Cloud for Positive Reviews
 ### Word Cloud for Negative Reviews
 ### Review Length Distribution
+
+Dependencies:
+- Python 3.11
+- tensorflow_datasets
+- pandas
+- nltk
+- wordcloud
+- matplotlib
+- plotly
+- scikit-learn
